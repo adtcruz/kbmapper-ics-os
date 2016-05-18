@@ -17,7 +17,7 @@ After cloning or unpacking the zip file to the ```contrib``` directory, switch t
 ```
 $ sudo make clean
 $ sudo make
-& sudo make install
+$ sudo make install
 ```
 
 That's it, you're done! All you have to do is to recompile ICS-OS so you can run the programme on ICS-OS by invoking kbmapper.exe
