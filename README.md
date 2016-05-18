@@ -1,7 +1,7 @@
 # KEYBOARD MAPPER UTILITY FOR ICS-OS
 This utility maps each keystroke, or a combination of keystrokes,
 captured by getch() to their integer values. Students or developers
-on the ICS-OS may find this utility nifty if they're working with
+on the [ICS-OS](https://github.com/srg-ics-uplb/ics-os/tree/master/ics-os) may find this utility nifty if they're working with
 applications that uses getch() or requires intermediate-advanced
 keyboard/keypress handling.
 
